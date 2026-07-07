@@ -27,9 +27,9 @@ type Language = 'en' | 'th'
 
 const translations = {
   en: {
-    title: 'QR Studio — QR Code Generator',
-    heroTitle: 'Create polished QR codes in seconds',
-    heroSubtitle: 'Generate high-resolution QR codes with custom colors, shapes, and an optional center logo — ready for print and web.',
+    title: 'QR Studio — Gen QR Code Free',
+    heroTitle: 'Gen QR Code in seconds - Free & Easy',
+    heroSubtitle: 'Gen QR code free with high-resolution quality. Customize colors, shapes, and add center logo — perfect for print and web. Fast, secure, no signup needed.',
     placeholder: 'Paste a URL, text, or any content to generate a QR code',
     autoUpdate: 'Auto update',
     generate: 'Generate QR',
@@ -58,9 +58,9 @@ const translations = {
     language: 'Language',
   },
   th: {
-    title: 'สตูดิโอ QR — สร้าง QR Code',
-    heroTitle: 'สร้าง QR Code ที่ดูดีและใช้งานได้จริงในไม่กี่วินาที',
-    heroSubtitle: 'สร้าง QR Code ความละเอียดสูง ปรับสี รูปร่าง และเพิ่มโลโก้ตรงกลาง เหมาะสำหรับงานพิมพ์และเว็บ',
+    title: 'สตูดิโอ QR — Gen QR Code ฟรี',
+    heroTitle: 'Gen QR Code ฟรี ใน 1 วินาที ไม่ต้องสมัคร',
+    heroSubtitle: 'Gen QR code ฟรี ด้วย QR Studio ที่เร็ว ปลอดภัย และใช้งานง่าย ปรับแต่งสี รูปร่าง เพิ่มโลโก้ และดาวน์โหลด PNG, JPG, SVG ได้ทันที',
     placeholder: 'วาง URL ข้อความ หรือเนื้อหาที่ต้องการแปลงเป็น QR Code',
     autoUpdate: 'อัปเดตอัตโนมัติ',
     generate: 'สร้าง QR',
