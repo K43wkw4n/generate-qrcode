@@ -150,7 +150,7 @@ function getColorValue(value: Color | string) {
 
 function QRStudioContent() {
   const { message } = App.useApp()
-  const [text, setText] = useState('https://generateqrcode.potamiya.com')
+  const [text, setText] = useState('https://qrcode.potamiya.com')
   const [autoUpdate, setAutoUpdate] = useState(true)
   const [language, setLanguage] = useState<Language>(getInitialLanguage)
   const [foregroundColor, setForegroundColor] = useState<string>('#111827')
